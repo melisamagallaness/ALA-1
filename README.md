@@ -1,4 +1,4 @@
-"# ALA-1-PARTE-2"
+"# ALA-1-PARTE-1"
 Ejercicio 1
 Ejercicio 1 - Parte A
 Análisis de JavaScript (acotado al Paradigma Estructurado) según los cuatro componentes de Thomas Kuhn:
